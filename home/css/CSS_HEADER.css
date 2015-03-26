@@ -1,0 +1,27 @@
+#DIV-HEADER{
+	max-width: 100%;
+	min-width: 960px;
+	height: 80px;
+	background-color: #0071C5;
+	color: #FFF;
+}
+.link_salir{
+	text-decoration: none;
+	padding: 4px 8px;
+	background-color: #ff8800;
+	color: #FFF;
+	border-radius: 4px;
+}
+	#sub-div-logo
+	{
+		/*border: 1px solid red;*/
+		float: left;
+		padding-left: 10px;
+	}
+	#sub-div-session
+	{
+		float: right;
+		padding-right: 10px;
+		padding-top: 20px;
+		/*border: 1px solid red;*/
+	}

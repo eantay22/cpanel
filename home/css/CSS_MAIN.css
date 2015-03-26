@@ -1,0 +1,32 @@
+#DIV-MAIN{
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 10px;
+	width: 960px;
+	background-color: #FFF;
+	border: 1px solid #CCC;
+}
+	#sub-div-buscador{
+		margin: 0 auto;
+		width: 600px;
+	}
+	input[type="text"]
+	{
+		width: 400px;
+		height: 30px;
+		padding-left: 3px;
+		outline: none;
+	}
+	input[type="submit"]
+	{
+		width: 80px;
+		height: 34px;
+		background-color: #d0151c;
+		color: #FFF;
+		border: 1px solid #d0151c;
+		border-radius: 3px;
+	}
+	input[type="submit"]:hover
+	{
+		cursor: pointer;
+	}

@@ -1,0 +1,2 @@
+<?php
+//EL ARCHIVO DINAMICO
